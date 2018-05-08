@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MyMobileApp"
+             x:Class="MyMobileApp.MainPage">
+
+    <Grid>
+        <Entry x:Name="myEntry" />
+        <Label x:Name="myLabel" />
+        <Button x:Name="myButton" />
+    </Grid>
+
+</ContentPage>
