@@ -4,10 +4,10 @@
              xmlns:local="clr-namespace:MyMobileApp"
              x:Class="MyMobileApp.MainPage">
 
-    <Grid>
+    <StackLayout>
         <Entry x:Name="myEntry" />
         <Label x:Name="myLabel" />
         <Button x:Name="myButton" />
-    </Grid>
+    </StackLayout>
 
 </ContentPage>

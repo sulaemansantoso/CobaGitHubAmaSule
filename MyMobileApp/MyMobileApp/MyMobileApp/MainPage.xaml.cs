@@ -19,6 +19,7 @@ namespace MyMobileApp
         private void MyButton_Clicked(object sender, EventArgs e)
         {
             // Di sini Le.. pindahin tulisan yg ada di myEntry ke myLabel
+            myLabel.Text = myEntry.Text;
         }
     }
 }
